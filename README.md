@@ -1,4 +1,0 @@
-# blockchainparty
-
-
-Linux build version
